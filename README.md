@@ -4,3 +4,8 @@ simple_card
 http://www.cri-mw.co.jp/event/2014/adx2le_sgj_140524.html
 
 プログラマ六人の異色な感じでしたが無事完成？しました。
+
+
+ライセンス
+
+[音楽素材/魔王魂](http://maoudamashii.jokersounds.com/)
